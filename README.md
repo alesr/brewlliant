@@ -1,13 +1,13 @@
-# REBREW
+# BREWLLIANT
 
-ReBrew is a simple command-line tool for managing Homebrew packages on macOS. It allows you to generate a list of installed packages, and then reinstall them on another machine.
+Brewlliant is a simple command-line tool for managing Homebrew packages on macOS. It allows you to generate a list of installed packages, and then reinstall them on another machine.
 
 ## Installation
 
-To install ReBrew, run the following command:
+To install Brewlliant, run the following command:
 
 ```bash
-go install github.com/alesr/rebrew@latest
+go install github.com/alesr/brewlliant@latest
 ```
 
 ## Features
@@ -15,4 +15,3 @@ go install github.com/alesr/rebrew@latest
 - Package Listing: Generate a list of installed Homebrew packages.
 - Package Installation: Install Homebrew packages listed in a file.
 - Package Description: Get descriptions for each Homebrew package listed in a file.
-

@@ -1,4 +1,4 @@
-package rebrew
+package brewlliant
 
 import (
 	"bufio"
